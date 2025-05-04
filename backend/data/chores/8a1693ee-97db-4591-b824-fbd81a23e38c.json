@@ -1,0 +1,10 @@
+{
+  "id": "8a1693ee-97db-4591-b824-fbd81a23e38c",
+  "name": "Tidy Up Room",
+  "assignedTo": "Saint",
+  "dueDate": "9999-09-09",
+  "reward": 10,
+  "created_at": "2025-05-02T21:58:09.992Z",
+  "updated_at": "2025-05-02T21:58:13.114Z",
+  "completed": true
+}

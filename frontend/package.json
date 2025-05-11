@@ -1,0 +1,10 @@
+{
+  "name": "chore-manager-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve public -p 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
